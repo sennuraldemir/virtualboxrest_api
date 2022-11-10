@@ -5,7 +5,8 @@
 # Cmd den sanala bağlanma ![cmdden sanala baglanma](https://user-images.githubusercontent.com/99283497/201142926-147808da-f654-4c77-856a-3d370aea4907.jpg)
 # Paketlerin Kurulması ![paketlerin kurulması](https://user-images.githubusercontent.com/99283497/201143018-1fbb3e78-b575-4b00-bb37-e93c83454e6b.jpg)
 # Test.py oluşturma ![test py olusumu](https://user-images.githubusercontent.com/99283497/201143454-94ae7f70-cb33-4f04-af8e-c0da868ee842.jpg)
-# Python Code ![python code](https://user-images.githubusercontent.com/99283497/201143558-7e5de86d-54a8-470d-9c51-b1fad2f0e84f.jpg)
+# Python Code ![python code](https://user-images.githubusercontent.com/99283497/201148979-049da659-f643-4e5c-815e-3d56e3273c83.jpg)
+
 # Test dosyası çalıştırma ![test dosyası calıstırma](https://user-images.githubusercontent.com/99283497/201143640-513ab847-be76-4288-84e8-276b58a66013.jpg)
 # sonuc ![sonucbulma](https://user-images.githubusercontent.com/99283497/201147302-02bc28a7-bee5-4d67-9c7a-58695db3d2ec.jpg)
 
